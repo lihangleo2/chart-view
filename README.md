@@ -5,4 +5,4 @@
 ![](https://github.com/lihangleo2/chart-view/blob/main/chartview.gif)
 
 ## 详细讲解，请上我的掘金
-* [chart-view掘金地址](https://github.com/lihangleo2/ChartView/wiki) 
+* [chart-view掘金地址](https://juejin.cn/post/6968698502327042085) 
